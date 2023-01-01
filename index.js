@@ -1,1 +1,1 @@
-clicked(){onclick="location.href = 'www.yoursite.com';"}
+clicked(){onclick="location.href = 'www.youtube.com';"}
